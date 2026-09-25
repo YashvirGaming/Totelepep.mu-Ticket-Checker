@@ -45,6 +45,10 @@
 
 ---
 
+<img width="886" height="752" alt="image" src="https://github.com/user-attachments/assets/216d1022-cdcb-445c-b102-a07d2b7fb4e9" />
+
+---
+
 <h2>🛠️ Tech Stack</h2>
 
 <table>
