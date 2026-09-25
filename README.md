@@ -60,8 +60,8 @@
 
 <h3>1. Clone the repository</h3>
 
-<pre><code>git clone https://github.com/your-username/Totelepep.mu-ticket-checker.git
-cd Totelepep.mu-ticket-checker
+<pre><code>git clone https://github.com/YashvirGaming/Totelepep.mu-Ticket-Checker.git
+cd Totelepep.mu-Ticket-Checker
 </code></pre>
 
 <h3>2. Install dependencies</h3>
